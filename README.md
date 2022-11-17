@@ -1,2 +1,2 @@
 # dicovery-react
-Projeto criado com react para exercitar os coisceitos do no javascript/type
+Projeto criado com react para exercitar os conceitos do no javascript/type
